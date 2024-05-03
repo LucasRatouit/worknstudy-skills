@@ -6,10 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les différences avec l'architecture monolithique ❌ / ✔️
-- la communication asynchrone entre services ❌ / ✔️
-- le deploiement d'un cluster ❌ / ✔️
-
+- les différences avec l'architecture monolithique ✔️
+- la communication asynchrone entre services ✔️
+- le deploiement d'un cluster ❌
 
 ## 💻 J'utilise
 
@@ -54,5 +53,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌
